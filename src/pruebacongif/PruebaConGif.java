@@ -16,8 +16,7 @@ public class PruebaConGif {
      */
     public static void main(String[] args) {
         System.out.println("Holaaaaaa");
-        /* Gracias , saludos Walter*/
-        
+        System.out.println("Buenos días. Mi nombre es Johana");
     }
     
 }
