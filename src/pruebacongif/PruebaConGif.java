@@ -17,6 +17,7 @@ public class PruebaConGif {
     public static void main(String[] args) {
         System.out.println("Holaaaaaa");
         System.out.println("Buenos días. Mi nombre es Johana");
+        System.out.println("Muy raro su reloj biologico");
     }
     
 }
